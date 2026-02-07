@@ -1,7 +1,6 @@
 <div align="center">
   <h1>YOLO26n-Face</h1>
   <p>
-    <strong>High-Speed Drone Face Detection Model</strong><br>
     Built on the powerful <a href="https://github.com/ultralytics/ultralytics">Ultralytics YOLO Framework</a>
   </p>
 
