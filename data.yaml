@@ -1,7 +1,7 @@
 path: D:/1. Kuliah/Semester 7/test_code/YOLO26/datasets
 train: train/images
-val: val/images      # <-- Sekarang folder ini sudah ada isinya!
-test: test/images    # Optional (Ini folder test asli yang tanpa label, buat inferensi aja)
+val: val/images 
+test: test/images  
 
 names:
   0: face
